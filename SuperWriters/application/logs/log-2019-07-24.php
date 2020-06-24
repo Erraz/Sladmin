@@ -1,0 +1,106 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-07-24 00:03:48 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 00:04:19 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:23:03 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:34:02 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:34:18 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:34:48 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:37:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:43:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 01:43:59 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 02:03:08 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 02:11:17 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 02:12:22 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 02:12:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 02:22:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 02:23:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 04:19:34 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 06:00:48 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 06:34:05 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 07:00:17 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 07:32:34 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 07:32:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 07:33:13 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 08:32:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 08:33:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 08:35:26 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 08:41:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 08:42:06 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 03:43:36 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 44
+ERROR - 2019-07-24 03:43:36 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 56
+ERROR - 2019-07-24 08:43:56 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 08:44:29 --> 404 Page Not Found: Plugins/iCheck
+ERROR - 2019-07-24 08:44:41 --> 404 Page Not Found: admin/Mailbox/read-mail.html
+ERROR - 2019-07-24 08:45:21 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:19:23 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:19:25 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:21:24 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:27:25 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:29:15 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:29:18 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:31:59 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 09:33:15 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:33:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:33:53 --> 404 Page Not Found: admin/Pages/invoice-print.html
+ERROR - 2019-07-24 09:34:47 --> 404 Page Not Found: admin/Pages/login.html
+ERROR - 2019-07-24 09:36:21 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:36:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 04:37:10 --> Severity: Warning --> A non-numeric value encountered /home/codeldzi/public_html/php/rbac/application/helpers/mpdf/mpdf.php 32511
+ERROR - 2019-07-24 09:38:54 --> 404 Page Not Found: Public/bootstrap
+ERROR - 2019-07-24 09:42:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:42:14 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:58:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:58:47 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 09:58:55 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:03:38 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:03:48 --> 404 Page Not Found: Public/bootstrap
+ERROR - 2019-07-24 10:03:55 --> 404 Page Not Found: Public/bootstrap
+ERROR - 2019-07-24 05:04:12 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 44
+ERROR - 2019-07-24 05:04:12 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 56
+ERROR - 2019-07-24 10:13:34 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:14:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:14:37 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:19:12 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 10:24:13 --> 404 Page Not Found: Public/bootstrap
+ERROR - 2019-07-24 10:24:34 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:29:47 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 10:31:06 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 10:36:37 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 10:39:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 11:38:22 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 11:39:22 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 11:40:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 11:40:55 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 11:41:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 12:06:28 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 12:18:57 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 12:33:58 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 12:48:58 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 12:52:21 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 12:52:53 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 12:53:20 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 07:53:42 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 44
+ERROR - 2019-07-24 07:53:42 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 56
+ERROR - 2019-07-24 14:24:19 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 14:35:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 14:56:27 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 15:03:14 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 15:38:06 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 16:33:08 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 18:58:30 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 18:58:35 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 18:58:44 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 18:58:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:20:14 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:20:41 --> 404 Page Not Found: Dist/img
+ERROR - 2019-07-24 19:21:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:28:47 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:39:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:52:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 19:52:35 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 20:06:28 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 22:55:37 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 22:55:39 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 22:55:55 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-07-24 22:56:03 --> 404 Page Not Found: Assets/dist

@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-26 00:21:20 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 00:24:03 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 01:36:39 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 02:17:12 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 02:17:13 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 02:18:42 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-26 02:19:36 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 02:21:52 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-26 05:21:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 05:25:31 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 06:34:54 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 06:37:52 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 06:40:24 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 06:41:19 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-26 08:41:10 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 08:41:11 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 09:26:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 10:06:22 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 10:06:43 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 13:50:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 13:50:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 13:52:12 --> 404 Page Not Found: Plugins/iCheck
+ERROR - 2019-08-26 13:52:14 --> 404 Page Not Found: admin/Mailbox/read-mail.html
+ERROR - 2019-08-26 13:52:28 --> 404 Page Not Found: admin/Mailbox/mailbox.html
+ERROR - 2019-08-26 22:35:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 22:35:02 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-26 22:56:38 --> 404 Page Not Found: Assets/dist

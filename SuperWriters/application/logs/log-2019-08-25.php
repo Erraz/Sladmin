@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-25 00:57:15 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 00:57:28 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 02:16:34 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 03:51:37 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 07:42:05 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 09:03:39 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 09:03:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 09:03:45 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 09:04:18 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 09:18:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 10:16:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 10:22:25 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 10:22:43 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-25 10:52:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 10:53:18 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-25 12:48:27 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 12:48:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 12:48:31 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 13:06:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 14:15:47 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 19:07:54 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 19:07:56 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 20:13:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 20:15:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 20:15:02 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 20:15:08 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 20:15:18 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 21:47:38 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-25 23:50:31 --> 404 Page Not Found: Assets/dist

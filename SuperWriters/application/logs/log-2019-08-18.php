@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-18 02:42:35 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 02:44:03 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 02:44:25 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:28:31 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:35:06 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:35:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:36:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:37:56 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:38:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 03:38:04 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 04:05:37 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 04:06:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 07:29:44 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 07:29:46 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 07:30:36 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 07:31:21 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 08:32:40 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 08:32:41 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 09:05:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 09:06:10 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 10:01:31 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 05:02:50 --> Severity: Notice --> Undefined property: Export::$ignore_directories /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 44
+ERROR - 2019-08-18 05:02:50 --> Severity: Notice --> Only variables should be assigned by reference /home/codeldzi/public_html/php/rbac/application/controllers/admin/Export.php 56
+ERROR - 2019-08-18 10:03:38 --> 404 Page Not Found: Plugins/iCheck
+ERROR - 2019-08-18 10:03:52 --> 404 Page Not Found: admin/Mailbox/read-mail.html
+ERROR - 2019-08-18 10:03:56 --> 404 Page Not Found: Plugins/iCheck
+ERROR - 2019-08-18 10:04:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 11:48:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:27:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:27:32 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:49:24 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:49:53 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:51:33 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:51:33 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 12:52:12 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 13:52:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 14:15:20 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 14:15:27 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 14:16:38 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 14:47:37 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 18:49:35 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 18:51:35 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 20:14:18 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 21:47:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 21:47:00 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-18 21:47:52 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-18 22:53:30 --> 404 Page Not Found: Assets/dist

@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-08-20 00:12:28 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 00:12:43 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 01:51:39 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 03:06:35 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 03:07:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 04:27:27 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 04:33:51 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 04:34:12 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 04:35:15 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 06:03:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 06:30:54 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 07:33:11 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 08:00:36 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 08:31:07 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 09:34:29 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 09:34:54 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 09:35:18 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-20 09:35:43 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 10:36:58 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 10:37:42 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 11:32:11 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 11:38:43 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 11:45:28 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 11:46:55 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 11:47:30 --> 404 Page Not Found: Dist/img
+ERROR - 2019-08-20 11:47:50 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 13:08:26 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 14:32:01 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 16:53:49 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 16:54:11 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 16:54:16 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 16:54:24 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 16:54:33 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 19:42:09 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 21:57:31 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 21:57:45 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 21:58:14 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 21:58:44 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 22:02:58 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 22:04:08 --> 404 Page Not Found: Assets/dist
+ERROR - 2019-08-20 23:18:16 --> Severity: Warning --> A non-numeric value encountered /home/codeldzi/public_html/php/rbac/application/helpers/mpdf/mpdf.php 32511

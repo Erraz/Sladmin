@@ -1,0 +1,1 @@
+__ci_last_regenerate|i:1563276411;admin_id|s:2:"25";username|s:5:"admin";admin_role_id|s:1:"2";admin_role|s:5:"Admin";is_supper|s:1:"0";is_admin_login|b:1;module_access|a:4:{s:5:"admin";a:3:{s:3:"add";s:0:"";s:4:"edit";s:0:"";s:6:"access";s:0:"";}s:11:"admin_roles";a:1:{s:6:"access";s:0:"";}s:5:"users";a:1:{s:6:"access";s:0:"";}s:16:"general_settings";a:1:{s:6:"access";s:0:"";}}
