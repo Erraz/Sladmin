@@ -42,5 +42,10 @@
 <!-- Notify JS -->
 <script src="<?= base_url() ?>assets/plugins/notify/notify.min.js"></script>
 
+
+<script src="<?= base_url() ?>assets/js/script.js"></script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.14/angular.min.js'></script><script  src="./script.js"></script>
 </body>
 </html>
