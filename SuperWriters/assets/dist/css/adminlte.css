@@ -8590,7 +8590,7 @@ body,
 
 .main-sidebar, .main-sidebar:before {
   transition: margin-left 0.3s ease-in-out, width 0.3s ease-in-out;
-  width: 250px;
+  width: 260px;
 }
 
 @media screen and (prefers-reduced-motion: reduce) {
