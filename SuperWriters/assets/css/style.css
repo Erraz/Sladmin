@@ -2,12 +2,6 @@
 
 
 
-.erra{
-
-
-  overflow: hidden;
-  vertical-align:center;
-}
 
 html, body * { box-sizing: border-box; font-family: 'Open Sans', sans-serif; }
 
@@ -28,6 +22,12 @@ overflow:hidden;
   background-size: cover;
 }
 
+.erra{
+
+
+  overflow: hidden;
+  vertical-align:center;
+}
 .container {
   width: 100%;
   padding-top: 60px;
