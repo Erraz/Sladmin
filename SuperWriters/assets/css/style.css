@@ -1,3 +1,5 @@
+
+
 html, body * { box-sizing: border-box; font-family: 'Open Sans', sans-serif; }
 
 body {
@@ -16,7 +18,12 @@ overflow:hidden;
     url(https://dl.dropboxusercontent.com/u/22006283/preview/codepen/sky-clouds-cloudy-mountain.jpg) no-repeat center center fixed;
   background-size: cover;
 }
+.erra{
 
+  border:1px solid green; 
+  overflow: hidden;
+  vertical-align:center;
+}
 .container {
   width: 100%;
   padding-top: 60px;
@@ -351,26 +358,24 @@ label {
 
 .btn-signin {
   float: left;
-  padding-top: 8px;
+ 
   width: 100%;
   height: 35px;
 	border: none;
 	border-radius: 20px;
-  margin-top: -8px;
+ 
     background: rgba(255,255,255, 1);
 
 }
-.erra{
-	  text-align: center;
-}
+
 .btn-animate {
   float: left;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 13px;
   text-align: center;
-  padding-top: 8px;
-  
+margin-top: 8px;
+ 
  margin-right: 15px;
   width: 40%;
   height: 35px;
@@ -423,8 +428,13 @@ a.btn-signup:hover, a.btn-signin:hover {
   opacity: 0;
 }
 .disclaimer{
-	color:#ffffff;
-	font-size:small;
+	  color:#ffffff;
+	  font-size:small;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block; 
+
 }
 .forgot a {
   color: rgba(255,255,255,.3);
